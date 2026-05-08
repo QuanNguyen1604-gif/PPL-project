@@ -1,0 +1,177 @@
+{
+  "schedule": [
+    {
+      "date": "30/12/2024",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Morning Yoga",
+          "start_time": "06:00",
+          "end_time": "07:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Project Kickoff",
+          "start_time": "09:00",
+          "end_time": "10:30"
+        },
+        {
+          "type": "event",
+          "description": "Client Lunch",
+          "start_time": "12:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Team Sync",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        }
+      ]
+    },
+    {
+      "date": "31/12/2024",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Year-End Review",
+          "start_time": "10:00",
+          "end_time": "11:30"
+        },
+        {
+          "type": "meeting",
+          "description": "Product Planning",
+          "start_time": "13:00",
+          "end_time": "14:30"
+        },
+        {
+          "type": "event",
+          "description": "New Year's Eve Party",
+          "start_time": "20:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Production Report",
+          "start_time": "12:30",
+          "end_time": "13:30"
+        }
+      ]
+    },
+    {
+      "date": "01/01/2025",
+      "activities": [
+        {
+          "type": "event",
+          "description": "New Year's Day Parade",
+          "start_time": "10:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Strategy Meeting",
+          "start_time": "14:00",
+          "end_time": "15:30"
+        }
+      ]
+    },
+    {
+      "date": "02/01/2025",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Marketing Workshop",
+          "start_time": "09:00",
+          "end_time": "12:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Budget Review",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "type": "event",
+          "description": "Product Launch Event",
+          "start_time": "18:00",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "03/01/2025",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Team Building Activity",
+          "start_time": "08:00",
+          "end_time": "10:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Customer Feedback Session",
+          "start_time": "11:00",
+          "end_time": "12:30"
+        },
+        {
+          "type": "event",
+          "description": "Networking Event",
+          "start_time": "17:00",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "04/01/2025",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Project setup",
+          "start_time": "12:30",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Design review",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Sprint planning",
+          "start_time": "16:30",
+          "end_time": "17:30"
+        },
+        {
+          "type": "event",
+          "description": "My Demo",
+          "start_time": "13:30",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "05/01/2025",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Code Review",
+          "start_time": "10:00",
+          "end_time": "12:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Stakeholder Meeting",
+          "start_time": "13:00",
+          "end_time": "14:30"
+        },
+        {
+          "type": "event",
+          "description": "Webinar",
+          "start_time": "16:00",
+          "end_time": null
+        }
+      ]
+    }
+  ]
+}
