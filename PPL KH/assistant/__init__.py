@@ -1,1 +1,0 @@
-"""PPL Assistant package."""
