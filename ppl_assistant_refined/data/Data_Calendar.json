@@ -1,0 +1,1684 @@
+{
+  "schedule": [
+    {
+      "date": "07/05/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Code Review Session",
+          "start_time": "11:00",
+          "end_time": "12:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Product Roadmap Discussion",
+          "start_time": "10:30",
+          "end_time": "11:30"
+        },
+        {
+          "type": "meeting",
+          "description": "Project Status Update",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "type": "event",
+          "description": "Online Course - ML Basics",
+          "start_time": "19:00",
+          "end_time": "21:00"
+        }
+      ]
+    },
+    {
+      "date": "08/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Art Exhibition",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Engineering All-Hands",
+          "start_time": "10:30",
+          "end_time": "11:30"
+        }
+      ]
+    },
+    {
+      "date": "09/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Date Night",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "type": "event",
+          "description": "Team Lunch",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "type": "event",
+          "description": "Football Match",
+          "start_time": "19:30",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Team Standup",
+          "start_time": "11:00",
+          "end_time": "12:00"
+        },
+        {
+          "type": "event",
+          "description": "Book Club Meeting",
+          "start_time": "06:30",
+          "end_time": "07:30"
+        }
+      ]
+    },
+    {
+      "date": "10/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Wedding Anniversary",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "type": "event",
+          "description": "Team Lunch",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Quarterly Business Review",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "type": "event",
+          "description": "Chess Practice",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "type": "event",
+          "description": "Online Course - ML Basics",
+          "start_time": "18:30",
+          "end_time": "19:30"
+        }
+      ]
+    },
+    {
+      "date": "11/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Volunteer at Shelter",
+          "start_time": "08:00",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Volunteer at Shelter",
+          "start_time": "18:30",
+          "end_time": "19:30"
+        },
+        {
+          "type": "meeting",
+          "description": "Hiring Panel Interview",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "type": "event",
+          "description": "Wedding Anniversary",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Design Critique",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Sprint Review",
+          "start_time": "15:30",
+          "end_time": "16:30"
+        }
+      ]
+    },
+    {
+      "date": "12/05/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "1-on-1 with Manager",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "type": "event",
+          "description": "Concert Tickets",
+          "start_time": "07:30",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Beach Day",
+          "start_time": "21:00",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Dentist Check-up",
+          "start_time": "07:00",
+          "end_time": "08:00"
+        }
+      ]
+    },
+    {
+      "date": "13/05/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Sprint Review",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Engineering All-Hands",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "type": "event",
+          "description": "Movie Night",
+          "start_time": "19:30",
+          "end_time": "20:30"
+        }
+      ]
+    },
+    {
+      "date": "14/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Morning Yoga",
+          "start_time": "17:30",
+          "end_time": "19:30"
+        },
+        {
+          "type": "event",
+          "description": "Hair Salon",
+          "start_time": "18:30",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Budget Planning",
+          "start_time": "13:30",
+          "end_time": "14:30"
+        },
+        {
+          "type": "meeting",
+          "description": "Sprint Review",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Sales Pipeline Review",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        }
+      ]
+    },
+    {
+      "date": "15/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Language Learning - Japanese",
+          "start_time": "21:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Project Status Update",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "type": "event",
+          "description": "House Cleaning",
+          "start_time": "17:30",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "16/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Personal Reflection",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "type": "event",
+          "description": "Doctor Appointment",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        },
+        {
+          "type": "event",
+          "description": "Morning Yoga",
+          "start_time": "19:30",
+          "end_time": "21:30"
+        }
+      ]
+    },
+    {
+      "date": "17/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Family Dinner",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "type": "event",
+          "description": "Chess Practice",
+          "start_time": "07:00",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "18/05/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Client Onboarding Call",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "type": "event",
+          "description": "Concert Tickets",
+          "start_time": "07:30",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Hiking Trip",
+          "start_time": "18:30",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Customer Demo",
+          "start_time": "13:30",
+          "end_time": "14:30"
+        },
+        {
+          "type": "event",
+          "description": "Personal Reflection",
+          "start_time": "21:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Risk Assessment",
+          "start_time": "14:30",
+          "end_time": "15:30"
+        }
+      ]
+    },
+    {
+      "date": "19/05/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Client Onboarding Call",
+          "start_time": "09:30",
+          "end_time": "10:30"
+        },
+        {
+          "type": "event",
+          "description": "Photography Walk",
+          "start_time": "08:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "API Design Review",
+          "start_time": "10:30",
+          "end_time": "11:30"
+        },
+        {
+          "type": "event",
+          "description": "Team Lunch",
+          "start_time": "18:30",
+          "end_time": "19:30"
+        },
+        {
+          "type": "meeting",
+          "description": "Team Standup",
+          "start_time": "10:30",
+          "end_time": "11:30"
+        },
+        {
+          "type": "event",
+          "description": "Doctor Appointment",
+          "start_time": "20:00",
+          "end_time": "22:00"
+        }
+      ]
+    },
+    {
+      "date": "20/05/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Marketing Strategy Meeting",
+          "start_time": "15:30",
+          "end_time": "16:30"
+        },
+        {
+          "type": "meeting",
+          "description": "Sprint Retrospective",
+          "start_time": "09:30",
+          "end_time": "10:30"
+        },
+        {
+          "type": "event",
+          "description": "Coffee with Mentor",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        }
+      ]
+    },
+    {
+      "date": "21/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Family Dinner",
+          "start_time": "07:30",
+          "end_time": "08:30"
+        },
+        {
+          "type": "meeting",
+          "description": "1-on-1 with Manager",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "type": "event",
+          "description": "Doctor Appointment",
+          "start_time": "19:30",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "22/05/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Sprint Review",
+          "start_time": "10:30",
+          "end_time": "11:30"
+        },
+        {
+          "type": "event",
+          "description": "Morning Yoga",
+          "start_time": "06:30",
+          "end_time": "08:30"
+        },
+        {
+          "type": "event",
+          "description": "Doctor Appointment",
+          "start_time": "06:30",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Design Critique",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        }
+      ]
+    },
+    {
+      "date": "23/05/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Sprint Planning",
+          "start_time": "13:30",
+          "end_time": "14:30"
+        },
+        {
+          "type": "event",
+          "description": "Beach Day",
+          "start_time": "21:00",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Dentist Check-up",
+          "start_time": "07:00",
+          "end_time": "08:00"
+        }
+      ]
+    },
+    {
+      "date": "24/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Coffee with Mentor",
+          "start_time": "07:30",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Tech Talk",
+          "start_time": "10:30",
+          "end_time": "11:30"
+        },
+        {
+          "type": "event",
+          "description": "Meditation Session",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        }
+      ]
+    },
+    {
+      "date": "25/05/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Stakeholder Meeting",
+          "start_time": "09:30",
+          "end_time": "10:30"
+        },
+        {
+          "type": "event",
+          "description": "Doctor Appointment",
+          "start_time": "06:30",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Doctor Appointment",
+          "start_time": "12:30",
+          "end_time": "14:30"
+        },
+        {
+          "type": "event",
+          "description": "Online Course - ML Basics",
+          "start_time": "18:00",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "26/05/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Client Onboarding Call",
+          "start_time": "15:30",
+          "end_time": "16:30"
+        },
+        {
+          "type": "event",
+          "description": "House Cleaning",
+          "start_time": "08:00",
+          "end_time": "10:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Code Review Session",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        }
+      ]
+    },
+    {
+      "date": "27/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Read Programming Book",
+          "start_time": "18:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Performance Review",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        }
+      ]
+    },
+    {
+      "date": "28/05/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Code Review Session",
+          "start_time": "09:30",
+          "end_time": "10:30"
+        },
+        {
+          "type": "meeting",
+          "description": "Quarterly Business Review",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "type": "event",
+          "description": "House Cleaning",
+          "start_time": "07:00",
+          "end_time": "09:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Tech Talk",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "type": "event",
+          "description": "Morning Yoga",
+          "start_time": "18:00",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "29/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Date Night",
+          "start_time": "08:00",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Hair Salon",
+          "start_time": "19:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Sprint Retrospective",
+          "start_time": "09:30",
+          "end_time": "10:30"
+        }
+      ]
+    },
+    {
+      "date": "30/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Team Lunch",
+          "start_time": "18:30",
+          "end_time": "19:30"
+        },
+        {
+          "type": "event",
+          "description": "Dentist Check-up",
+          "start_time": "06:00",
+          "end_time": "07:00"
+        },
+        {
+          "type": "event",
+          "description": "Football Match",
+          "start_time": "07:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Sprint Review",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        }
+      ]
+    },
+    {
+      "date": "31/05/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Doctor Appointment",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        },
+        {
+          "type": "event",
+          "description": "Team Lunch",
+          "start_time": "21:00",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Birthday Party",
+          "start_time": "12:30",
+          "end_time": "13:30"
+        },
+        {
+          "type": "event",
+          "description": "Movie Night",
+          "start_time": "06:00",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "01/06/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Stakeholder Meeting",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Team Standup",
+          "start_time": "13:30",
+          "end_time": "14:30"
+        },
+        {
+          "type": "event",
+          "description": "Doctor Appointment",
+          "start_time": "19:30",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Side Project Coding",
+          "start_time": "08:00",
+          "end_time": "10:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Code Review Session",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "type": "event",
+          "description": "Date Night",
+          "start_time": "07:00",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "02/06/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Code Review Session",
+          "start_time": "11:00",
+          "end_time": "12:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Team Standup",
+          "start_time": "10:30",
+          "end_time": "11:30"
+        },
+        {
+          "type": "event",
+          "description": "Hair Salon",
+          "start_time": "18:30",
+          "end_time": "19:30"
+        },
+        {
+          "type": "event",
+          "description": "Book Club Meeting",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        }
+      ]
+    },
+    {
+      "date": "03/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Dentist Check-up",
+          "start_time": "18:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Stakeholder Meeting",
+          "start_time": "11:00",
+          "end_time": "12:00"
+        }
+      ]
+    },
+    {
+      "date": "04/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Cooking Class",
+          "start_time": "12:30",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Football Match",
+          "start_time": "19:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Quarterly Business Review",
+          "start_time": "13:30",
+          "end_time": "14:30"
+        },
+        {
+          "type": "event",
+          "description": "Personal Reflection",
+          "start_time": "18:00",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "05/06/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Vendor Meeting",
+          "start_time": "14:30",
+          "end_time": "15:30"
+        },
+        {
+          "type": "event",
+          "description": "Cooking Class",
+          "start_time": "19:00",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "House Cleaning",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "type": "event",
+          "description": "Date Night",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        }
+      ]
+    },
+    {
+      "date": "06/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Concert Tickets",
+          "start_time": "18:00",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Language Learning - Japanese",
+          "start_time": "18:30",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Wedding Anniversary",
+          "start_time": "17:30",
+          "end_time": "18:30"
+        },
+        {
+          "type": "meeting",
+          "description": "Tech Talk",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        }
+      ]
+    },
+    {
+      "date": "07/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Photography Walk",
+          "start_time": "17:00",
+          "end_time": "19:00"
+        },
+        {
+          "type": "event",
+          "description": "Laundry Day",
+          "start_time": "19:30",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Chess Practice",
+          "start_time": "17:30",
+          "end_time": "19:30"
+        }
+      ]
+    },
+    {
+      "date": "08/06/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "1-on-1 with Manager",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Hiring Panel Interview",
+          "start_time": "15:30",
+          "end_time": "16:30"
+        },
+        {
+          "type": "event",
+          "description": "Doctor Appointment",
+          "start_time": "06:30",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Read Programming Book",
+          "start_time": "06:00",
+          "end_time": "07:00"
+        },
+        {
+          "type": "event",
+          "description": "Movie Night",
+          "start_time": "18:30",
+          "end_time": "19:30"
+        }
+      ]
+    },
+    {
+      "date": "09/06/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "HR Sync",
+          "start_time": "13:30",
+          "end_time": "14:30"
+        },
+        {
+          "type": "event",
+          "description": "Beach Day",
+          "start_time": "07:30",
+          "end_time": "09:30"
+        },
+        {
+          "type": "meeting",
+          "description": "Hiring Panel Interview",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "type": "event",
+          "description": "Personal Reflection",
+          "start_time": "06:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Code Review Session",
+          "start_time": "13:30",
+          "end_time": "14:30"
+        },
+        {
+          "type": "event",
+          "description": "Football Match",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        }
+      ]
+    },
+    {
+      "date": "10/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Hair Salon",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Engineering All-Hands",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "type": "event",
+          "description": "Therapy Appointment",
+          "start_time": "19:30",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Meditation Session",
+          "start_time": "17:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Design Critique",
+          "start_time": "13:30",
+          "end_time": "14:30"
+        }
+      ]
+    },
+    {
+      "date": "11/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Art Exhibition",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Architecture Review",
+          "start_time": "10:30",
+          "end_time": "11:30"
+        },
+        {
+          "type": "meeting",
+          "description": "1-on-1 with Manager",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "type": "event",
+          "description": "Movie Night",
+          "start_time": "07:00",
+          "end_time": "08:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Sprint Review",
+          "start_time": "14:30",
+          "end_time": "15:30"
+        }
+      ]
+    },
+    {
+      "date": "12/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Wedding Anniversary",
+          "start_time": "20:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Risk Assessment",
+          "start_time": "13:30",
+          "end_time": "14:30"
+        },
+        {
+          "type": "event",
+          "description": "Gym Workout",
+          "start_time": "18:00",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "13/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Therapy Appointment",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Marketing Strategy Meeting",
+          "start_time": "13:30",
+          "end_time": "14:30"
+        },
+        {
+          "type": "event",
+          "description": "Concert Tickets",
+          "start_time": "06:00",
+          "end_time": "08:00"
+        },
+        {
+          "type": "event",
+          "description": "Volunteer at Shelter",
+          "start_time": "17:30",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "14/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Gym Workout",
+          "start_time": "18:00",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Dentist Check-up",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "type": "event",
+          "description": "Family Dinner",
+          "start_time": "06:30",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "15/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Art Exhibition",
+          "start_time": "19:30",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "1-on-1 with Manager",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "type": "event",
+          "description": "Hair Salon",
+          "start_time": "19:30",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "16/06/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Quarterly Business Review",
+          "start_time": "09:00",
+          "end_time": "10:00"
+        },
+        {
+          "type": "event",
+          "description": "Team Lunch",
+          "start_time": "07:30",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Design Critique",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        }
+      ]
+    },
+    {
+      "date": "17/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Personal Reflection",
+          "start_time": "07:30",
+          "end_time": "09:30"
+        },
+        {
+          "type": "meeting",
+          "description": "Product Roadmap Discussion",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        }
+      ]
+    },
+    {
+      "date": "18/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Personal Reflection",
+          "start_time": "18:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Risk Assessment",
+          "start_time": "11:00",
+          "end_time": "12:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Stakeholder Meeting",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "type": "event",
+          "description": "House Cleaning",
+          "start_time": "19:30",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "House Cleaning",
+          "start_time": "06:30",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "19/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Birthday Party",
+          "start_time": "12:00",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Personal Reflection",
+          "start_time": "07:30",
+          "end_time": "08:30"
+        },
+        {
+          "type": "event",
+          "description": "Team Lunch",
+          "start_time": "19:30",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Hiring Panel Interview",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        }
+      ]
+    },
+    {
+      "date": "20/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Birthday Party",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "type": "event",
+          "description": "Beach Day",
+          "start_time": "18:30",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Hair Salon",
+          "start_time": "19:00",
+          "end_time": "20:00"
+        }
+      ]
+    },
+    {
+      "date": "21/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Wedding Anniversary",
+          "start_time": "19:30",
+          "end_time": "21:30"
+        },
+        {
+          "type": "event",
+          "description": "Online Course - ML Basics",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "type": "meeting",
+          "description": "API Design Review",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "type": "event",
+          "description": "Doctor Appointment",
+          "start_time": "08:00",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "22/06/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Architecture Review",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Customer Demo",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "type": "event",
+          "description": "Hair Salon",
+          "start_time": "12:00",
+          "end_time": "14:00"
+        }
+      ]
+    },
+    {
+      "date": "23/06/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Marketing Strategy Meeting",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Design Critique",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Code Review Session",
+          "start_time": "09:30",
+          "end_time": "10:30"
+        },
+        {
+          "type": "event",
+          "description": "Therapy Appointment",
+          "start_time": "19:30",
+          "end_time": "20:30"
+        }
+      ]
+    },
+    {
+      "date": "24/06/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Client Onboarding Call",
+          "start_time": "13:30",
+          "end_time": "14:30"
+        },
+        {
+          "type": "meeting",
+          "description": "Tech Talk",
+          "start_time": "10:30",
+          "end_time": "11:30"
+        },
+        {
+          "type": "event",
+          "description": "Meditation Session",
+          "start_time": "18:30",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "25/06/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "1-on-1 with Manager",
+          "start_time": "14:30",
+          "end_time": "15:30"
+        },
+        {
+          "type": "event",
+          "description": "Laundry Day",
+          "start_time": "06:30",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Volunteer at Shelter",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "type": "event",
+          "description": "Language Learning - Japanese",
+          "start_time": "06:30",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Client Onboarding Call",
+          "start_time": "13:00",
+          "end_time": "14:00"
+        }
+      ]
+    },
+    {
+      "date": "26/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Family Dinner",
+          "start_time": "06:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Performance Review",
+          "start_time": "14:30",
+          "end_time": "15:30"
+        },
+        {
+          "type": "event",
+          "description": "House Cleaning",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Risk Assessment",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "type": "event",
+          "description": "Cooking Class",
+          "start_time": "08:00",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "27/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Coffee with Mentor",
+          "start_time": "17:00",
+          "end_time": "18:00"
+        },
+        {
+          "type": "event",
+          "description": "Meditation Session",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "type": "event",
+          "description": "Meditation Session",
+          "start_time": "08:00",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Side Project Coding",
+          "start_time": "20:00",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "28/06/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Hiring Panel Interview",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "type": "event",
+          "description": "House Cleaning",
+          "start_time": "18:30",
+          "end_time": "19:30"
+        },
+        {
+          "type": "event",
+          "description": "Personal Reflection",
+          "start_time": "06:30",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "29/06/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Coffee with Mentor",
+          "start_time": "08:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Code Review Session",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "type": "event",
+          "description": "Football Match",
+          "start_time": "08:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Sales Pipeline Review",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "type": "event",
+          "description": "Side Project Coding",
+          "start_time": "18:00",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Budget Planning",
+          "start_time": "14:30",
+          "end_time": "15:30"
+        }
+      ]
+    },
+    {
+      "date": "30/06/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Design Critique",
+          "start_time": "10:00",
+          "end_time": "11:00"
+        },
+        {
+          "type": "event",
+          "description": "Hiking Trip",
+          "start_time": "06:30",
+          "end_time": "07:30"
+        }
+      ]
+    },
+    {
+      "date": "01/07/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "Tech Talk",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Tech Talk",
+          "start_time": "10:30",
+          "end_time": "11:30"
+        },
+        {
+          "type": "event",
+          "description": "Read Programming Book",
+          "start_time": "19:00",
+          "end_time": null
+        }
+      ]
+    },
+    {
+      "date": "02/07/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Grocery Shopping",
+          "start_time": "06:00",
+          "end_time": "07:00"
+        },
+        {
+          "type": "event",
+          "description": "Movie Night",
+          "start_time": "06:30",
+          "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "Marketing Strategy Meeting",
+          "start_time": "10:30",
+          "end_time": "11:30"
+        },
+        {
+          "type": "meeting",
+          "description": "Vendor Meeting",
+          "start_time": "15:00",
+          "end_time": "16:00"
+        },
+        {
+          "type": "event",
+          "description": "Read Programming Book",
+          "start_time": "21:00",
+          "end_time": "22:00"
+        }
+      ]
+    },
+    {
+      "date": "03/07/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Laundry Day",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        },
+        {
+          "type": "meeting",
+          "description": "HR Sync",
+          "start_time": "14:30",
+          "end_time": "15:30"
+        },
+        {
+          "type": "meeting",
+          "description": "Sprint Review",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Engineering All-Hands",
+          "start_time": "11:00",
+          "end_time": "12:00"
+        },
+        {
+          "type": "event",
+          "description": "Volunteer at Shelter",
+          "start_time": "18:00",
+          "end_time": "19:00"
+        }
+      ]
+    },
+    {
+      "date": "04/07/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Hiking Trip",
+          "start_time": "17:00",
+          "end_time": null
+        },
+        {
+          "type": "event",
+          "description": "Football Match",
+          "start_time": "21:00",
+          "end_time": "23:00"
+        }
+      ]
+    },
+    {
+      "date": "05/07/2026",
+      "activities": [
+        {
+          "type": "event",
+          "description": "Therapy Appointment",
+          "start_time": "20:00",
+          "end_time": "21:00"
+        },
+        {
+          "type": "event",
+          "description": "Side Project Coding",
+          "start_time": "12:00",
+          "end_time": "13:00"
+        },
+        {
+          "type": "event",
+          "description": "Concert Tickets",
+          "start_time": "08:00",
+          "end_time": null
+        }
+      ]
+    }
+  ]
+}
