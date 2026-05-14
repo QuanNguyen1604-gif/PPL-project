@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&display=swap');
+
 :root {
     --text-primary: #0f172a;
     --text-secondary: #6b7280;
@@ -5,7 +7,7 @@
     --accent-strong: #5b21b6;
     --accent-error: #b91c1c;
     --container-bg: #f0f2f5;
-    --container-border: rgba(15, 23, 42, 0.12);
+    --container-border: rgba(15, 23, 42, 0.12); 
     --header-bg: #ffffff;
     --header-border: rgba(15, 23, 42, 0.12);
     --chat-bg: #f8fafc;
@@ -101,7 +103,7 @@ body.dark-mode {
 }
 
 body {
-    font-family: 'Inter', 'Segoe UI', sans-serif;
+    font-family: 'Geist', 'Segoe UI', sans-serif;
     background: var(--page-bg);
     color: var(--text-primary);
     min-height: 100vh;
@@ -228,9 +230,16 @@ body {
     margin-bottom: 20px;
 }
 
-.quick-chip {
+.quick-example {
     min-width: 120px;
     text-align: center;
+    background: var(--chip-bg);
+    color: var(--chip-color);
+    border: 1px solid var(--chip-border);
+    border-radius: 999px;
+    padding: 10px 16px;
+    font-size: 0.95rem;
+    cursor: default;
 }
 
 .chat-box {
@@ -368,11 +377,11 @@ body {
 }
 
 .input-group {
-    display: grid;
-    grid-template-columns: auto auto 1fr auto;
-    gap: 12px;
+    display: flex;
+    gap: 15px;
     align-items: center;
-    margin-top: 16px;
+    margin-top: 20px;
+    width: 100%;
 }
 
 .input-icon {
