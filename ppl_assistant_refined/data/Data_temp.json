@@ -1,6 +1,7 @@
 {
   "verbs": "set",
-  "objects": "event",
-  "date": "04/01/2025",
-  "start_time": "13:30"
+  "objects": "meeting",
+  "date": "17/05/2026",
+  "start_time": "12:00",
+  "end_time": "14:00"
 }

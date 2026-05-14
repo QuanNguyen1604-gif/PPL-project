@@ -68,9 +68,9 @@ set event 13:30 04/01/2025
 4. **Semantic dispatch**: engine chuyển `Command` sang module nghiệp vụ phù hợp.
 5. **Stateful dialogue**: thao tác `set event/...` có trạng thái chờ tiêu đề.
 
-## Chạy test
+## Chạy test web
 ```bash
-python -m pytest -q
+python main.py --web;
 ```
 ### Bonus: Chạy KEY API cho weather
 ```bash

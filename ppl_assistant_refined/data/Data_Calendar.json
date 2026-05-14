@@ -304,6 +304,12 @@
           "description": "Chess Practice",
           "start_time": "07:00",
           "end_time": null
+        },
+        {
+          "type": "meeting",
+          "description": "PPL",
+          "start_time": "12:00",
+          "end_time": "14:00"
         }
       ]
     },
@@ -409,6 +415,18 @@
           "description": "Coffee with Mentor",
           "start_time": "12:00",
           "end_time": "13:00"
+        },
+        {
+          "type": "meeting",
+          "description": "Represent PPL project",
+          "start_time": "16:00",
+          "end_time": "18:00"
+        },
+        {
+          "type": "meeting",
+          "description": "DSA project",
+          "start_time": "15:30",
+          "end_time": "16:30"
         }
       ]
     },

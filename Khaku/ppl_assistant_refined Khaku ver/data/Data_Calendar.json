@@ -172,6 +172,28 @@
           "end_time": null
         }
       ]
+    },
+    {
+      "date": "14/05/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "PPL project",
+          "start_time": "14:00",
+          "end_time": "15:00"
+        }
+      ]
+    },
+    {
+      "date": "15/05/2026",
+      "activities": [
+        {
+          "type": "meeting",
+          "description": "PPL project",
+          "start_time": "16:00",
+          "end_time": "17:00"
+        }
+      ]
     }
   ]
 }
