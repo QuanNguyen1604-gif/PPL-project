@@ -17,28 +17,25 @@ HTML_TEMPLATE = r"""
     <div class="container">
         <div class="header">
             <div class="title-block">
-                <div class="app-icon">📅</div>
+                <div class="app-icon">🗓️</div>
                 <div>
                     <h1 id="title">PPL Assistant</h1>
-                    <p class="subtitle">Lịch họp · Thời tiết · Sắp xếp</p>
+                    <p class="subtitle">Meeting planner · Weather · Organization</p>
                 </div>
             </div>
             <div class="toggles">
-                <button class="language-toggle" id="lang-toggle" onclick="toggleLanguage()">EN</button>
                 <button class="mode-toggle" id="mode-toggle" onclick="toggleMode()">🌙</button>
             </div>
         </div>
         <div class="quick-actions" id="quick-actions">
-            <button class="quick-chip" onclick="sendQuickAction('Thời tiết hôm nay')">Thời tiết hôm nay</button>
-            <button class="quick-chip" onclick="sendQuickAction('Thêm lịch họp')">Thêm lịch họp</button>
-            <button class="quick-chip" onclick="sendQuickAction('Xem lịch tuần')">Xem lịch tuần</button>
-            <button class="quick-chip" onclick="sendQuickAction('Nhắc nhở')">Nhắc nhở</button>
+            <div class="quick-example">Show calendar 30/12/2024</div>
+            <div class="quick-example">Show meeting 30/12/2024</div>
+            <div class="quick-example">Show event 31/12/2024</div>
+            <div class="quick-example">Show weather vung tau 16/12/2024</div>
         </div>
         <div class="chat-box" id="chat-box"></div>
         <div class="input-group">
-            <button class="input-icon" id="attach-btn" title="Attach">📎</button>
-            <button class="input-icon" id="mic-btn" title="Voice input">🎙</button>
-            <input type="text" id="user-input" placeholder="Nhập lệnh hoặc câu hỏi...">
+            <input type="text" id="user-input" placeholder="Type your message...">
             <button class="send-button" onclick="sendMessage()" id="send-btn">➤</button>
         </div>
     </div>
@@ -47,36 +44,9 @@ HTML_TEMPLATE = r"""
         const chatBox = document.getElementById('chat-box');
         const userInput = document.getElementById('user-input');
         const title = document.getElementById('title');
-        const langToggle = document.getElementById('lang-toggle');
         const modeToggle = document.getElementById('mode-toggle');
 
-        let isEnglish = false;
         let isDarkMode = true;
-        const translations = {
-            en: {
-                title: 'PPL Assistant',
-                placeholder: 'Type your message...',
-                toggle: 'VN',
-                subtitle: 'Meeting planner · Weather · Organization'
-            },
-            vn: {
-                title: 'PPL Assistant',
-                placeholder: 'Nhập lệnh hoặc câu hỏi...',
-                toggle: 'EN',
-                subtitle: 'Lịch họp · Thời tiết · Sắp xếp'
-            }
-        };
-
-        function toggleLanguage() {
-            isEnglish = !isEnglish;
-            const lang = isEnglish ? 'en' : 'vn';
-            title.textContent = translations[lang].title;
-            userInput.placeholder = translations[lang].placeholder;
-            langToggle.textContent = translations[lang].toggle;
-            document.querySelector('.subtitle').textContent = translations[lang].subtitle;
-            document.documentElement.lang = isEnglish ? 'en' : 'vi';
-            langToggle.classList.toggle('active', !isEnglish);
-        }
 
         function toggleMode() {
             isDarkMode = !isDarkMode;
@@ -92,20 +62,20 @@ HTML_TEMPLATE = r"""
 
         function classifyBotMessage(text) {
             const lowered = text.toLowerCase();
-            if (/sorry|không hiểu|không nhận ra|i don't understand|don\'t understand|cannot understand|unable to understand|xin lỗi/.test(lowered)) {
+            if (/sorry|i don't understand|don\'t understand|cannot understand|unable to understand/.test(lowered)) {
                 return 'error';
             }
-            if (/\d+°c|°c|weather|thời tiết|temperature|nhiệt độ/.test(lowered)) {
+            if (/\d+°c|°c|weather|temperature/.test(lowered)) {
                 return 'weather';
             }
-            if (/đã tạo|tạo thành công|confirmed|success|hoàn thành|đã lưu/.test(lowered)) {
+            if (/confirmed|success/.test(lowered)) {
                 return 'success';
             }
-            if (/lịch|sự kiện|cuộc họp|reminder|nhắc/.test(lowered) && !/thời tiết/.test(lowered)) {
+            if (/reminder/.test(lowered)) {
                 return 'event';
             }
             return 'normal';
-        }
+        }   
 
         function renderMessage(text, sender, variant = 'normal', time = getTimestamp()) {
             const wrapper = document.createElement('div');
@@ -165,15 +135,10 @@ HTML_TEMPLATE = r"""
                 const botText = data.response;
                 addMessage(botText, 'bot');
             })
-            .catch(error => {
+           .catch(error => {
                 console.error('Error:', error);
-                addMessage(isEnglish ? 'Sorry, an error occurred.' : 'Xin lỗi, có lỗi xảy ra.', 'bot');
+                addMessage('Sorry, an error occurred.', 'bot');
             });
-        }
-
-        function sendQuickAction(text) {
-            userInput.value = text;
-            sendMessage();
         }
 
         userInput.addEventListener('keypress', function(e) {
@@ -182,16 +147,7 @@ HTML_TEMPLATE = r"""
             }
         });
 
-        document.getElementById('mic-btn').addEventListener('click', () => {
-            addMessage(isEnglish ? 'Voice input is not enabled yet.' : 'Chức năng giọng nói chưa mở.', 'bot');
-        });
-
-        document.getElementById('attach-btn').addEventListener('click', () => {
-            addMessage(isEnglish ? 'Attachment support is not available yet.' : 'Chưa hỗ trợ đính kèm.', 'bot');
-        });
-
         document.body.classList.add('dark-mode');
-        toggleLanguage();
     </script>
 </body>
 </html>
